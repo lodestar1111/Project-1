@@ -56,6 +56,8 @@ a:hover {
   color: white
 }
 
+
+}
 header {
   text-align: center;
   background: url('images/robot.jpg') no-repeat top center ;
@@ -118,7 +120,7 @@ ul.skills {
 }
 
 .skills li:nth-child(odd) {
-  background: #0399ff;
+  background: #0cb614;
 }
 
 .images {
@@ -129,6 +131,8 @@ ul.skills {
   border: 5px solid rgb(197, 184, 161);
   transition: all 1.5s;
   
+
+
 }
 .images:hover {
   transform: scale(1.7) rotate(180deg);
